@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/BNA-page/static/js/main.ca1cf0d4.chunk.js",
+    "main.js.map": "/BNA-page/static/js/main.ca1cf0d4.chunk.js.map",
+    "runtime-main.js": "/BNA-page/static/js/runtime-main.0b47d0c5.js",
+    "runtime-main.js.map": "/BNA-page/static/js/runtime-main.0b47d0c5.js.map",
+    "static/css/2.015dc0ab.chunk.css": "/BNA-page/static/css/2.015dc0ab.chunk.css",
+    "static/js/2.447d0019.chunk.js": "/BNA-page/static/js/2.447d0019.chunk.js",
+    "static/js/2.447d0019.chunk.js.map": "/BNA-page/static/js/2.447d0019.chunk.js.map",
+    "index.html": "/BNA-page/index.html",
+    "static/css/2.015dc0ab.chunk.css.map": "/BNA-page/static/css/2.015dc0ab.chunk.css.map",
+    "static/js/2.447d0019.chunk.js.LICENSE.txt": "/BNA-page/static/js/2.447d0019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b47d0c5.js",
+    "static/css/2.015dc0ab.chunk.css",
+    "static/js/2.447d0019.chunk.js",
+    "static/js/main.ca1cf0d4.chunk.js"
+  ]
+}
